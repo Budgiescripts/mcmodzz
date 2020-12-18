@@ -1,0 +1,13 @@
+public interface gk {
+  double a();
+  
+  double b();
+  
+  double c();
+}
+
+
+/* Location:              C:\Users\Eugen\Desktop\1.16.4.jar!\gk.class
+ * Java compiler version: 8 (52.0)
+ * JD-Core Version:       1.1.3
+ */

@@ -1,0 +1,9 @@
+interface a<T extends bic> {
+  T create(int paramInt, bfv parambfv);
+}
+
+
+/* Location:              C:\Users\Eugen\Desktop\1.16.4.jar!\bje$a.class
+ * Java compiler version: 8 (52.0)
+ * JD-Core Version:       1.1.3
+ */

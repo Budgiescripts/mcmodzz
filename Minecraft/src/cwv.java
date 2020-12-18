@@ -1,0 +1,9 @@
+public interface cwv {
+  int apply(int paramInt1, int paramInt2);
+}
+
+
+/* Location:              C:\Users\Eugen\Desktop\1.16.4.jar!\cwv.class
+ * Java compiler version: 8 (52.0)
+ * JD-Core Version:       1.1.3
+ */
